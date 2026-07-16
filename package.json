@@ -1,0 +1,7 @@
+{
+  "name": "quiz-app",
+  "private": true,
+  "scripts": {
+    "build": "cd quiz-app-online && npm install && npm run build"
+  }
+}
